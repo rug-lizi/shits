@@ -84,7 +84,7 @@ How difficult is it to find the winning cash?
 2. Look for 13 cards of 2 of Clubs with one shuffle
 3. Duke University, Harvey's group Antminer S17 does _53 Trillion_ hashes per second. That represent 0.002% of the hashing power of the network.
 
-<img src="/DeFi/Images/Duke-Fuqua%20Lab%20Mining%20Machines.png " width=50%>
+<img src="/DeFi/Duke-Fuqua%20Lab%20Mining%20Machines.png " width=50%>
 
 Strength and Weekness
 
