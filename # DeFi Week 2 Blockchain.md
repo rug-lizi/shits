@@ -18,7 +18,7 @@ These data can be anything.
 
 Hash is cryption.
 
-e.g. SHA-256 (Secure Hashing Algorithm)<https://emn178.github.io/online-tools/sha256.html>
+e.g. SHA-256 [Secure Hashing Algorithm](https://emn178.github.io/online-tools/sha256.html)
 
 1. Hashing is a one-way function.
 
