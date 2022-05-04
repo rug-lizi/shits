@@ -4,7 +4,7 @@ shits that flows everywhere, free and various
 ## Initiatives
 
 - to use markdown more often
-- to build up the notes of the courses I take, faithfuly
+- to build up the notes of the courses I take, faithfully
 
 ## Style
 
